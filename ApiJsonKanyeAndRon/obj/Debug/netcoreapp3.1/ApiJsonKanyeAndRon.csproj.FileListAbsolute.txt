@@ -1,0 +1,16 @@
+C:\Users\Adam\TrueCoders\Repos\C#\ApiJsonKanyeAndRon\ApiJsonKanyeAndRon\bin\Debug\netcoreapp3.1\ApiJsonKanyeAndRon.exe
+C:\Users\Adam\TrueCoders\Repos\C#\ApiJsonKanyeAndRon\ApiJsonKanyeAndRon\bin\Debug\netcoreapp3.1\ApiJsonKanyeAndRon.deps.json
+C:\Users\Adam\TrueCoders\Repos\C#\ApiJsonKanyeAndRon\ApiJsonKanyeAndRon\bin\Debug\netcoreapp3.1\ApiJsonKanyeAndRon.runtimeconfig.json
+C:\Users\Adam\TrueCoders\Repos\C#\ApiJsonKanyeAndRon\ApiJsonKanyeAndRon\bin\Debug\netcoreapp3.1\ApiJsonKanyeAndRon.runtimeconfig.dev.json
+C:\Users\Adam\TrueCoders\Repos\C#\ApiJsonKanyeAndRon\ApiJsonKanyeAndRon\bin\Debug\netcoreapp3.1\ApiJsonKanyeAndRon.dll
+C:\Users\Adam\TrueCoders\Repos\C#\ApiJsonKanyeAndRon\ApiJsonKanyeAndRon\bin\Debug\netcoreapp3.1\ApiJsonKanyeAndRon.pdb
+C:\Users\Adam\TrueCoders\Repos\C#\ApiJsonKanyeAndRon\ApiJsonKanyeAndRon\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Adam\TrueCoders\Repos\C#\ApiJsonKanyeAndRon\ApiJsonKanyeAndRon\obj\Debug\netcoreapp3.1\ApiJsonKanyeAndRon.csproj.AssemblyReference.cache
+C:\Users\Adam\TrueCoders\Repos\C#\ApiJsonKanyeAndRon\ApiJsonKanyeAndRon\obj\Debug\netcoreapp3.1\ApiJsonKanyeAndRon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\TrueCoders\Repos\C#\ApiJsonKanyeAndRon\ApiJsonKanyeAndRon\obj\Debug\netcoreapp3.1\ApiJsonKanyeAndRon.AssemblyInfoInputs.cache
+C:\Users\Adam\TrueCoders\Repos\C#\ApiJsonKanyeAndRon\ApiJsonKanyeAndRon\obj\Debug\netcoreapp3.1\ApiJsonKanyeAndRon.AssemblyInfo.cs
+C:\Users\Adam\TrueCoders\Repos\C#\ApiJsonKanyeAndRon\ApiJsonKanyeAndRon\obj\Debug\netcoreapp3.1\ApiJsonKanyeAndRon.csproj.CoreCompileInputs.cache
+C:\Users\Adam\TrueCoders\Repos\C#\ApiJsonKanyeAndRon\ApiJsonKanyeAndRon\obj\Debug\netcoreapp3.1\ApiJsonKanyeAndRon.csproj.CopyComplete
+C:\Users\Adam\TrueCoders\Repos\C#\ApiJsonKanyeAndRon\ApiJsonKanyeAndRon\obj\Debug\netcoreapp3.1\ApiJsonKanyeAndRon.dll
+C:\Users\Adam\TrueCoders\Repos\C#\ApiJsonKanyeAndRon\ApiJsonKanyeAndRon\obj\Debug\netcoreapp3.1\ApiJsonKanyeAndRon.pdb
+C:\Users\Adam\TrueCoders\Repos\C#\ApiJsonKanyeAndRon\ApiJsonKanyeAndRon\obj\Debug\netcoreapp3.1\ApiJsonKanyeAndRon.genruntimeconfig.cache
